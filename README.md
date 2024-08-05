@@ -1,4 +1,5 @@
 # Resources
+credit : https://github.com/alexngn
 
 
 # [2024] Resources To Be A Better Software Engineer
